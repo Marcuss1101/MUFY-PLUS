@@ -1,0 +1,11 @@
+string1 = "YeEReN lIkeS HuI XUaN"
+x=string1.casefold ()
+print(x)
+y=string1.capitalize ()
+print(y)
+z=string1.upper ()
+print(z)
+a=string1.lower ()
+print(a)
+b=string1.replace (" ","")
+print(b)
